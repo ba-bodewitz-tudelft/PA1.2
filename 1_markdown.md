@@ -23,7 +23,12 @@ Now try to replicate the following markdown table (you can copy-paste the star e
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_table.png)
 
-% WRITE YOUR MARKDOWN HERE
+# This a comment
+name = "Toine"
+age = 26
+print(f"Hello my name is {name} and I'm {age} years old")
+
+
 
 
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
