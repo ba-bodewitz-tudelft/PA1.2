@@ -7,7 +7,10 @@ Here is the example to replicate:
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_example.png)
 
-% WRITE YOUR MARKDOWN HERE
+# This a comment
+name = "Toine"
+age = 26
+print(f"Hello my name is {name} and I'm {age} years old")
 
 
 ## Task 2 Open rendered markdown preview
